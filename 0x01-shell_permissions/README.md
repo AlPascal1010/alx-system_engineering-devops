@@ -1,1 +1,1 @@
-getting currnt user identity
+display all groups
