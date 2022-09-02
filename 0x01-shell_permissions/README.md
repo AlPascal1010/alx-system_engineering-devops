@@ -1,1 +1,1 @@
-change user to betty
+getting currnt user identity
