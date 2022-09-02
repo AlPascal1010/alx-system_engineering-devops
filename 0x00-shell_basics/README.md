@@ -1,1 +1,1 @@
-symbolic link
+display current directory contents
