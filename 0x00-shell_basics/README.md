@@ -1,1 +1,1 @@
-Move to the previous directory
+multiple commands
