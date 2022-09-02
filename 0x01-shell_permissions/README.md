@@ -1,1 +1,1 @@
-Everyone come in
+no permisions
