@@ -1,2 +1,2 @@
 #!/bin/bash
-$(ls -a cd .. ls -a cd .. ls -a)
+$(ls -na cd .. ls -na cd ../boot ls -na)
