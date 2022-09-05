@@ -4,3 +4,4 @@ what is next tech9
 i hate bins
 display letter only
 replacing letters
+ removes all letters c and C from input.
