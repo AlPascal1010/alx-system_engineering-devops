@@ -1,3 +1,1 @@
-Hello World
-Confused Smiley
- content of the /etc/passwd
+2 files displayed
