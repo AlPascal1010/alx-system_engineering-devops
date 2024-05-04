@@ -41,7 +41,7 @@ frontend leviathans-frontend
         default_backend leviathans-backend
 
 frontend leviathans-frontend-https
-        bind *:443 ssl crt /etc/haproxy/certs/www.leviathans.tech.pem
+        bind *:443 ssl crt /etc/haproxy/certs/leviathans.tech.pem
         http-request set-header X-Forwarded-Proto https
         default_backend leviathans-backend
 
